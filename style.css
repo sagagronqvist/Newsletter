@@ -45,6 +45,10 @@ h3 {
   padding-top: 1%;
 }
 
+.firstBlock img {
+  width: 100%;
+}
+
 .secondBlock {
   background: black;
 }
