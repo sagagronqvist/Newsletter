@@ -6,6 +6,7 @@ footer {
   background: black;
   color: white;
   height: 250px;
+  padding-bottom: 15px;
 }
 
 a {
@@ -102,4 +103,11 @@ h3 {
 
 .icons i {
   padding: 5px;
+}
+
+.itemsRowOne,
+.itemsRowTwo {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
