@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+}
+
+footer {
+  background: black;
+  color: white;
+  height: 250px;
+}
+
+a {
+  color: #bc2f2c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+hr {
+  width: 30%;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  color: white;
+}
+
+.firstBlock {
+  padding-top: 1%;
+}
+
+.secondBlock {
+  background: black;
+}
+
+.thirdBlock {
+  background: #bc2f2c;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 45px;
+}
+
+.columns {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.fourthBlock {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background: black;
+  color: white;
+}
+
+.fifthBlock {
+  padding-bottom: 40px;
+}
+
+.redText {
+  color: #bc2f2c;
+}
+
+.otamotButtons {
+  font-family: sans-serif;
+  background: black;
+  color: white;
+  padding: 10px;
+  padding-left: 28px;
+  padding-right: 28px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.icons {
+  font-size: 45px;
+  padding-top: 50px;
+  padding-bottom: 28px;
+}
+
+.icons i {
+  padding: 5px;
+}
