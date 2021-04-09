@@ -5,7 +5,6 @@ body {
 footer {
   background: black;
   color: white;
-  height: 300px;
   padding-bottom: 15px;
 }
 
@@ -102,7 +101,7 @@ h3 {
 .icons {
   font-size: 45px;
   padding-top: 35px;
-  padding-bottom: 28px;
+  padding-bottom: 15px;
 }
 
 .icons i {
