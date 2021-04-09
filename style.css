@@ -27,7 +27,7 @@ h2,
 h3,
 p {
   font-family: sans-serif;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -46,9 +46,10 @@ h3 {
   color: white;
 }
 
-.row {
+.col {
   display: flex;
   flex-wrap: nowrap;
+  justify-content: center;
 }
 
 .content {
@@ -82,7 +83,7 @@ h3 {
 .thirdBlock {
   background: #bc2f2c;
   color: white;
-  padding-top: 15px;
+  padding-top: 25px;
   padding-bottom: 45px;
 }
 
@@ -96,7 +97,7 @@ h3 {
 }
 
 .fourthBlock {
-  padding-top: 15px;
+  padding-top: 25px;
   padding-bottom: 30px;
   background: black;
   color: white;
