@@ -104,10 +104,3 @@ h3 {
 .icons i {
   padding: 5px;
 }
-
-.itemsRowOne,
-.itemsRowTwo {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-}
