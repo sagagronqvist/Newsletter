@@ -31,6 +31,7 @@ p {
 
 h1 {
   font-size: 55px;
+  margin-top: 0;
 }
 
 h2 {
@@ -82,6 +83,10 @@ h3 {
 
 .redText {
   color: #bc2f2c;
+}
+
+.underlineText {
+  text-decoration: underline;
 }
 
 .otamotButtons {
