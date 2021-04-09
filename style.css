@@ -27,6 +27,7 @@ h2,
 h3,
 p {
   font-family: sans-serif;
+  width: 80%;
 }
 
 h1 {
@@ -101,7 +102,7 @@ h3 {
 
 .icons {
   font-size: 45px;
-  padding-top: 50px;
+  padding-top: 35px;
   padding-bottom: 28px;
 }
 
