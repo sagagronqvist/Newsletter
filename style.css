@@ -1,5 +1,4 @@
 body {
-  text-align: center;
   margin: 0;
 }
 
@@ -9,13 +8,14 @@ footer {
   padding-bottom: 15px;
 }
 
-a {
+footer a {
   color: #bc2f2c;
   text-decoration: none;
 }
 
-a:hover {
+footer a:hover {
   color: white;
+  text-decoration: none;
 }
 
 hr {
@@ -27,6 +27,8 @@ h2,
 h3,
 p {
   font-family: sans-serif;
+  width: 50%;
+  margin: 0 auto;
 }
 
 h1 {
@@ -36,10 +38,21 @@ h1 {
 
 h2 {
   font-size: 28px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 h3 {
   color: white;
+}
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.content {
+  text-align: center;
 }
 
 .firstBlock {
@@ -48,6 +61,14 @@ h3 {
 
 .firstBlock img {
   width: 100%;
+}
+
+.firstBlock h1 {
+  font-weight: bold;
+}
+
+.firstBlock h2 {
+  font-weight: bold;
 }
 
 .secondBlock {
@@ -68,6 +89,10 @@ h3 {
 .columns {
   padding-top: 15px;
   padding-bottom: 30px;
+}
+
+.columns h2 {
+  font-weight: bold;
 }
 
 .fourthBlock {
@@ -102,6 +127,12 @@ h3 {
 
 #otamotButtons:hover {
   background: #bc2f2c;
+  text-decoration: none;
+}
+
+.buttonBox {
+  margin: 25px;
+  margin-top: 35px;
 }
 
 .icons {
@@ -112,4 +143,9 @@ h3 {
 
 .icons i {
   padding: 5px;
+  color: #bc2f2c;
+}
+
+.icons i:hover {
+  color: white;
 }
