@@ -48,6 +48,10 @@ h3 {
   background: black;
 }
 
+.secondBlock img {
+  width: 600px;
+}
+
 .thirdBlock {
   background: #bc2f2c;
   color: white;
