@@ -172,15 +172,15 @@ h3 {
 
 @media screen and (max-width: 600px) {
   .firstBlock h1 {
-    font-size: 20px;
+    font-size: 45px;
   }
   .firstBlock h2 {
-    font-size: 15px;
+    font-size: 25px;
   }
   .thirdBlock h2 {
-    font-size: 10px;
+    font-size: 15px;
   }
   footer p {
-    font-size: 7px;
+    font-size: 10px;
   }
 }
