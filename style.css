@@ -47,6 +47,10 @@ h3 {
   color: white;
 }
 
+.container {
+  padding: 0;
+}
+
 .container img {
   width: 100%;
   display: block;
