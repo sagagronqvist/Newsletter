@@ -52,11 +52,6 @@ h3 {
   flex-wrap: nowrap;
 }
 
-.productRow {
-  justify-content: center;
-  flex-wrap: nowrap;
-}
-
 .content {
   text-align: center;
 }
