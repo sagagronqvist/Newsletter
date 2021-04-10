@@ -27,7 +27,8 @@ h2,
 h3,
 p {
   font-family: sans-serif;
-  width: 80%;
+  padding-left: 15px;
+  padding-right: 15px;
   margin: 0 auto;
 }
 
