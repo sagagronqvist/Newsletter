@@ -118,7 +118,7 @@ h3 {
 }
 
 .underlineText {
-  text-decoration: underline;
+  text-shadow: 3px 3px 5px black;
 }
 
 #otamotButtons {
