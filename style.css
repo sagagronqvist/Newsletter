@@ -54,6 +54,7 @@ h3 {
 
 .row {
   justify-content: center;
+  flex-wrap: nowrap;
 }
 
 .content {
