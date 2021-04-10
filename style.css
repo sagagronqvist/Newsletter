@@ -46,9 +46,13 @@ h3 {
   color: white;
 }
 
-.row {
+.container {
   display: flex;
+  flex-direction: column;
   flex-wrap: nowrap;
+}
+
+.row {
   justify-content: center;
 }
 
